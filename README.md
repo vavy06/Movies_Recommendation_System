@@ -5,3 +5,6 @@
 * A little data preprocessing and feature selection is done.
 * Dataset consists of little less than 5000 movies.
 
+## Output format is as follows : 
+
+![suggested](suggested.PNG)
